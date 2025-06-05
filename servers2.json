@@ -6,3 +6,12 @@
     }
   ]
 }
+
+{
+  "servers": [
+    {
+      "name": "SideStore",
+      "address": "https://ani.sidestore.io"
+    },
+  ],
+}
